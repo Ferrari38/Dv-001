@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="th">
 <head>
   <meta charset="UTF-8" />
@@ -45,6 +44,9 @@
     <label>รายได้จาก BOLT (บาท):</label>
     <input type="number" id="bolt" />
 
+    <label>ทิป (บาท):</label>
+    <input type="number" id="tip" />
+    
     <label>ค่าน้ำมัน (บาท):</label>
     <input type="number" id="electricity" />
 
@@ -53,9 +55,6 @@
 
     <label>ระยะทางที่ใช้ (กม.):</label>
     <input type="number" id="distance" />
-
-    <label>ทิป (บาท):</label>
-    <input type="number" id="tip" />
 
     <button onclick="calculate()">คำนวณ</button>
 
