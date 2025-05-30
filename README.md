@@ -33,7 +33,6 @@
   </style>
 </head>
 <body>
-  <div class="container">
     <h2>คำนวณรายได้ประจำวัน</h2>
     <label>วันที่:</label>
     <input type="date" id="date" />
