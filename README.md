@@ -1,6 +1,8 @@
 <html lang="th">
 <head>
-  <meta charset="UTF-8" />
+  {
+  display: none;
+}
   <title>สรุปรายได้ประจำวัน</title>
   <style>
     header {
