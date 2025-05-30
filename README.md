@@ -1,8 +1,4 @@
 <html lang="th">
-<head>
-  {
-  display: none;
-}
   <title>สรุปรายได้ประจำวัน</title>
   <style>
     header {
